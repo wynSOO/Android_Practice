@@ -1,0 +1,1 @@
+## LinearLayout 설명
